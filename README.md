@@ -5,7 +5,7 @@ Talkie's public project repo: tasks and the Neki ledger for Talkie, TOPC's Hindi
 - [Issues](https://github.com/kamal0808/talkie-tasks/issues): open tasks. Each issue is one task, and its `neki:N` label is the Neki it earns (1 Neki = 1 rupee of work at market price).
 - [`LEDGER.md`](LEDGER.md): who has earned what. Your share of Talkie = your Neki / all Neki there.
 
-The code is in a separate private repo.
+Code: [kamal0808/talkie](https://github.com/kamal0808/talkie). Private for now: you get access when you join the project.
 
 ## How it works
 
